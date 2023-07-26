@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Arrays\AP_Arrays\bin\Debug\AP_Arrays.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Arrays\AP_Arrays\bin\Debug\AP_Arrays.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Arrays\AP_Arrays\bin\Debug\AP_Arrays.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Arrays\AP_Arrays\obj\Debug\AP_Arrays.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Arrays\AP_Arrays\obj\Debug\AP_Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Arrays\AP_Arrays\obj\Debug\AP_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Arrays\AP_Arrays\obj\Debug\AP_Arrays.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Arrays\AP_Arrays\obj\Debug\AP_Arrays.pdb
